@@ -1,0 +1,9 @@
+Building FoodStamp
+
+See doc/readme-qt.rst for instructions on building FoodStamp QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FoodStamp.
+
+See doc/build-*.txt for instructions on building foodstampd,
+the intended-for-services, no-graphical-interface, reference
+implementation of FoodStamp.
